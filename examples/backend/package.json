@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "serve": "nodemon server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "knex": "^0.12.7",
+    "nodemon": "^1.11.0",
+    "pg": "^6.1.3"
+  }
+}
